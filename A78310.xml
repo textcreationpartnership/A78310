@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of plates, the prints whereof are useful for gentlemen, artists, and gentlewomen, and school-mistresses works, sold by Arthur Tooker, stationer at the Globe over against Salisbury House in the Strand, where you may have choice of maps, and also Italian, German, and the Low Countrey prints, Indian ink, abortive skins, all sorts of paintings, and all stationary wares.</title>
+            <author>Tooker, Arthur.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78310</idno>
+            <idno type="STC">Wing C1363B</idno>
+            <idno type="STC">ESTC R176639</idno>
+            <idno type="EEBO-CITATION">45578225</idno>
+            <idno type="OCLC">ocm 45578225</idno>
+            <idno type="VID">172170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172170)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2616:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of plates, the prints whereof are useful for gentlemen, artists, and gentlewomen, and school-mistresses works, sold by Arthur Tooker, stationer at the Globe over against Salisbury House in the Strand, where you may have choice of maps, and also Italian, German, and the Low Countrey prints, Indian ink, abortive skins, all sorts of paintings, and all stationary wares.</title>
+                  <author>Tooker, Arthur.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication information suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jode, Arnold de, fl. 1660-1669.</term>
+               <term>Gaywood, Richard, fl. 1650-1680.</term>
+               <term>Browne, Alexander, fl. 1660-1677.</term>
+               <term>Hollar, Wenceslaus, 1607-1677.</term>
+               <term>Fuller, Isaac, 1606-1672.</term>
+               <term>Barlow, Francis, 1626?-1702.</term>
+               <term>Place, Francis, 1647-1728.</term>
+               <term>Stationery trade --  England --  Catalogs.</term>
+               <term>Prints --  17th century --  England.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172170:1"/>
+            <head>
+               <hi>A Catalogue of Plates, The Prints whereof are uſeful for Gentlemen, Artiſts, and Gentlewomen, and School-miſtreſſes Works,</hi> Sold by <hi>ARTHUR TOOKER,</hi> Stationer at the Globe over againſt <hi>Salisbury Houſe</hi> in the <hi>Strand,</hi> where you may have choice of Maps, and alſo Italian, German, and the Low Countrey Prints, Indian Ink, Abortive Skins, all ſorts of Paintings, and all Stationary Wares.</head>
+            <list>
+               <head>Plates of <hi>Arnold de Jode</hi> his Graving.</head>
+               <item>An Almanack Border with Boys, and the Seaſons of the Year, invented by Mr. <hi>Iſaac Fuller.</hi>
+               </item>
+               <item>
+                  <hi>Ars Pictoria,</hi> being the beſt book extant in <hi>Engliſh</hi> for Drawing, collected by Mr. <hi>Alexander Browne.</hi>
+               </item>
+               <item>Four Stories of <hi>Ovid</hi> in ſeveral Plates, <hi>viz.</hi> 1. <hi>Phaeton,</hi> 2. <hi>Venus</hi> birth, 3. <hi>Ulyſſes</hi> and the <hi>Syrens,</hi> 4 <hi>Siſyphus.</hi>
+               </item>
+               <item>One Plate containing 7 of the Nobilities Heads.</item>
+            </list>
+            <list>
+               <head>Plates of Mr. <hi>Gaywoods</hi> Etching, invented by Mr. <hi>Barlow</hi> and others.</head>
+               <item>Two Badges or Choice of Signs for Bars and Rooms.</item>
+               <item>
+                  <hi>Titian</hi> and his Miſtreſs.</item>
+               <item>A Cunnie-berry.</item>
+               <item>Saint <hi>GEORGE.</hi>
+               </item>
+               <item>Madam <hi>Kirck.</hi>
+               </item>
+               <item>A Cats Head.</item>
+               <item>A book 24 Leaves, of variety of Beaſts, Birds, Flies, Fruits, and Flowers.</item>
+               <item>A book 24 Leaves, of variety of beaſts in their po<g ref="char:EOLhyphen"/>ſtures and actions.</item>
+               <item>A book 9 Leaves, of variety of birds in their ſe<g ref="char:EOLhyphen"/>veral actions.</item>
+               <item>A book 27 Leaves, of ſeveral Stories of the begin<g ref="char:EOLhyphen"/>ning of the <hi>BIBLE.</hi>
+               </item>
+               <item>A book of <hi>Pearcies</hi> Foldage, 12 Leaves.</item>
+               <item>A Proſpect View of <hi>Lynn.</hi>
+               </item>
+               <item>A large Sea Fight.</item>
+            </list>
+            <list>
+               <head>Several Plates Etched by Mr. <hi>Gaywood,</hi> Mr. <hi>Place,</hi> and Mr. <hi>Holler.</hi>
+               </head>
+               <item>A ſmall Sea Storm.</item>
+               <item>A book 5 Leaves, of Sea Havens.</item>
+               <item>A book 6 Leaves, of Round Sea Havens.</item>
+               <item>A book 6 Leaves, of Landskip.</item>
+               <item>A Sea Haven.</item>
+               <item>
+                  <hi>Rocheſter</hi> Caſtle.</item>
+               <item>
+                  <hi>Hurſt</hi> Caſtle.</item>
+               <item>
+                  <hi>Cowes</hi> Caſtle.</item>
+            </list>
+            <list>
+               <head>Several ſorts of Plates by divers Authors.</head>
+               <item>Eight Plates of the King and Queen, Duke and Dut<g ref="char:EOLhyphen"/>cheſs of <hi>Monmouth,</hi> Engraven by <hi>Van Hove.</hi>
+               </item>
+               <item>Eighteen Heads of Drollery and Anticks.</item>
+               <item>Three Plates, <hi>viz.</hi> 1. Chriſt taken from the Croſs, 2. A Friar, 3. Saint <hi>Jerom.</hi>
+               </item>
+               <item>A Perpetual Almanack in a large border.</item>
+               <item>Sixty Stories of variety of Landskip and Ovals with neat borders, and variety of Beaſts, Birds, Hunt<g ref="char:EOLhyphen"/>ing, Trees, Worms, Fruit, Flowers, Fiſhes, &amp;c. Coloured fit for Cabinets, Dreſſing-boxes, Pow<g ref="char:EOLhyphen"/>der-boxes, Baskets, Skreens, &amp;c.</item>
+               <item>Four Plates of Little boys.</item>
+               <item>Saint <hi>George</hi> on Horſeback.</item>
+               <item>The Queen on Horſeback.</item>
+               <item>The Duke of <hi>Monmouth</hi> on Horſeback.</item>
+               <item>
+                  <hi>Actaeon.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172170:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
